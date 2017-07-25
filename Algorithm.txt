@@ -1,0 +1,11 @@
+/* The algorithm:
+Create a class name StringClass;
+have both set and get Methods. one set the value  of the private field String
+and the other one returns it.
+create another demo class called myClassString
+prompt the user to enter an answer for the String
+check if the String or the answer matches 
+if matches output
+if no matches output
+else output
+repeat the loop as long as the answer is correct*/

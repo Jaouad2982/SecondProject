@@ -1,0 +1,13 @@
+/*The pseudoCode
+
+Creation of a class
+do 
+	prompt an answer
+	check the answer
+	if answer equals the prompt 
+	do something 
+	else do something else
+	else
+		do something else 
+do those steps while the answer is correct 
+loop the process  */
